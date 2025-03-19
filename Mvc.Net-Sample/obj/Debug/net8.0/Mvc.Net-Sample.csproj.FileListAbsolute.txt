@@ -46,3 +46,4 @@ D:\Projects\Mvc.Net-Sample\Mvc.Net-Sample\bin\Debug\net8.0\Microsoft.Extensions.
 D:\Projects\Mvc.Net-Sample\Mvc.Net-Sample\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 D:\Projects\Mvc.Net-Sample\Mvc.Net-Sample\obj\Debug\net8.0\Mvc.Net-Sample.csproj.AssemblyReference.cache
 D:\Projects\Mvc.Net-Sample\Mvc.Net-Sample\obj\Debug\net8.0\Mvc.Net-.67FA58FD.Up2Date
+D:\Projects\Mvc.Net-Sample\Mvc.Net-Sample\obj\Debug\net8.0\Mvc.Net-Sample.sourcelink.json
