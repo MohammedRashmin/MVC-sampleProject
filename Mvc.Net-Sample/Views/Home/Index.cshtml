@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card shadow-lg p-5 border-0 rounded-4 text-center custom-home">
+        <h1 class="display-4 text-primary fw-bold">🚀 Welcome, Rasee!</h1>
+        <p class="lead text-muted">Welocme to the world of MVC Mameee!</p>
+
+        <div class="mt-4">
+            <a asp-controller="Home" asp-action="Trials" class="btn btn-lg btn-primary mx-2 rounded-pill shadow-sm">📊 Overview</a>
+            <a asp-controller="Home" asp-action="CreateTrials" class="btn btn-lg btn-success mx-2 rounded-pill shadow-sm">➕ Create New</a>
+        </div>
+    </div>
+</div>
