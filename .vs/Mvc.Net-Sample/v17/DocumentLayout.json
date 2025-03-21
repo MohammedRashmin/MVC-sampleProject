@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\Mvc.Net-Sample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|d:\\projects\\mvc.net-sample\\angularproject1\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|d:\\projects\\mvc.net-sample\\angularproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,12 +15,64 @@
       "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|d:\\projects\\mvc.net-sample\\angularproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\models\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\models\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\models\\trilasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\models\\trilasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|d:\\projects\\mvc.net-sample\\angularproject1\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|d:\\projects\\mvc.net-sample\\angularproject1\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|d:\\projects\\mvc.net-sample\\angularproject1\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|d:\\projects\\mvc.net-sample\\angularproject1\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9C3D5D7-8B19-49A7-BB63-56DF6E5B8D60}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -55,24 +103,8 @@
       "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\models\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\models\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\models\\trilasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\models\\trilasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|d:\\projects\\mvc.net-sample\\mvc.net-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B28D60E-4067-4372-AB4A-BA1C4FBB7BEB}|Mvc.Net-Sample\\Mvc.Net-Sample.csproj|solutionrelative:mvc.net-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,24 +114,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "package-lock.json",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\package-lock.json",
-              "RelativeDocumentMoniker": "AngularProject1\\package-lock.json",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\package-lock.json",
-              "RelativeToolTip": "AngularProject1\\package-lock.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T11:18:17.953Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Program.cs",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Program.cs",
+              "RelativeToolTip": "Mvc.Net-Sample\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:46:20.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\_ViewImports.cshtml",
@@ -107,81 +138,17 @@
               "RelativeToolTip": "Mvc.Net-Sample\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T11:15:15.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "package.json",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\package.json",
-              "RelativeDocumentMoniker": "AngularProject1\\package.json",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\package.json",
-              "RelativeToolTip": "AngularProject1\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T11:12:46.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "jquery.validate.js",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAwBUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-19T10:26:00.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\favicon.ico",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\favicon.ico",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2025-03-19T10:25:46.981Z",
-              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+              "WhenOpened": "2025-03-19T11:15:15.803Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T04:36:43.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Program.cs",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Program.cs",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Program.cs",
-              "RelativeToolTip": "Mvc.Net-Sample\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T04:46:20.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Mvc.Net-Sample\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T04:51:22.389Z",
               "EditorCaption": ""
@@ -189,79 +156,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Mvc.Net-Sample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T04:35:36.256Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\appsettings.json",
+              "RelativeToolTip": "Mvc.Net-Sample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T04:17:44.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "jquery.validate.unobtrusive.js",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-19T10:25:51.206Z"
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T04:36:43.811Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LICENSE.md",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-19T10:25:57.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Trials.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Trials.cshtml",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Home\\Trials.cshtml",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Trials.cshtml",
-              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Home\\Trials.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T04:42:22.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateTrials.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\CreateTrials.cshtml",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Home\\CreateTrials.cshtml",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\CreateTrials.cshtml",
-              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Home\\CreateTrials.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T05:08:28.2Z"
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-20T04:21:40.014Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T05:06:21.51Z"
+              "Title": "TrilasDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\TrilasDbContext.cs",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Models\\TrilasDbContext.cs",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\TrilasDbContext.cs",
+              "RelativeToolTip": "Mvc.Net-Sample\\Models\\TrilasDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:06:32.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Trial.cs",
               "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\Trial.cs",
               "RelativeDocumentMoniker": "Mvc.Net-Sample\\Models\\Trial.cs",
@@ -273,19 +215,212 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TrilasDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\TrilasDbContext.cs",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Models\\TrilasDbContext.cs",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\TrilasDbContext.cs",
-              "RelativeToolTip": "Mvc.Net-Sample\\Models\\TrilasDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\package.json",
+              "RelativeDocumentMoniker": "AngularProject1\\package.json",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\package.json",
+              "RelativeToolTip": "AngularProject1\\package.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T11:12:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Mvc.Net-Sample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T04:17:40.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Mvc.Net-Sample\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T06:06:32.945Z"
+              "WhenOpened": "2025-03-19T08:07:05.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mvc.Net-Sample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:35:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-20T04:19:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\appsettings.Development.json",
+              "RelativeToolTip": "Mvc.Net-Sample\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T04:17:42.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.component.spec.ts",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T11:39:00.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\package-lock.json",
+              "RelativeDocumentMoniker": "AngularProject1\\package-lock.json",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\package-lock.json",
+              "RelativeToolTip": "AngularProject1\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T11:18:17.953Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.module.ts",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\src\\app\\app.module.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T11:38:58.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.component.html",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\AngularProject1\\src\\app\\app.component.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T11:39:02.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T10:26:00.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\favicon.ico",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-19T10:25:46.981Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T10:25:51.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LICENSE.md",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+              "RelativeToolTip": "Mvc.Net-Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-19T10:25:57.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Trials.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Trials.cshtml",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Home\\Trials.cshtml",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Trials.cshtml",
+              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Home\\Trials.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T04:42:22.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateTrials.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\CreateTrials.cshtml",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Home\\CreateTrials.cshtml",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\CreateTrials.cshtml",
+              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Home\\CreateTrials.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T05:08:28.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Mvc.Net-Sample\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T05:06:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Mvc.Net-Sample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -294,18 +429,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T08:06:57.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Mvc.Net-Sample\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Projects\\Mvc.Net-Sample\\Mvc.Net-Sample\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Mvc.Net-Sample\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:07:05.189Z"
             }
           ]
         }
